@@ -1,0 +1,14 @@
+bridge.png : 16.0KB
+File1.zip : 188KB
+File2.zip : 10.2KB
+xmas.zip : 1.76MB
+Report.pdf : 631KB
+xmas.pdf : 1.79MB
+SV.pdf : 54.9MB
+Han Kim.mp4 : 35.2MB
+2n1d.mp4 : 299MB
+QL.mp4 : 891MB
+1GB.zip : 1.00GB
+New folder.zip : 1.19GB
+
+
